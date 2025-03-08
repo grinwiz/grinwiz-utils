@@ -1,6 +1,6 @@
 {
-	"name": "@grinwiz/grinwiz-utils",
-	"version": "1.0.1",
+	"name": "@grinwiz/utils",
+	"version": "1.0.2-1",
 	"main": "src/index.js",
 	"scripts": {
 		"start": "node src/index.js",

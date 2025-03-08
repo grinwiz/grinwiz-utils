@@ -1,19 +1,19 @@
-# @grinwiz/grinwiz-utils
+# @grinwiz/utils
 
 A collection of utility functions to simplify development in JavaScript and Node.js projects.
 
 ## Installation
 
-You can install `@grinwiz/grinwiz-utils` via npm:
+You can install `@grinwiz/utils` via npm:
 
 ```sh
-npm install @grinwiz/grinwiz-utils
+npm install @grinwiz/utils
 ```
 
 or using yarn:
 
 ```sh
-yarn add @grinwiz/grinwiz-utils
+yarn add @grinwiz/utils
 ```
 
 ## Usage
@@ -22,7 +22,7 @@ Import the utilities and use them in your project:
 
 ```js
 // Example usage
-const { randomString } = require('@grinwiz/grinwiz-utils');
+const { randomString } = require('@grinwiz/utils');
 
 // Example usage
 const CIF = randomString(6);
